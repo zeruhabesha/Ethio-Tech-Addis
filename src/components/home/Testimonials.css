@@ -1,0 +1,24 @@
+.testimonial-slider {
+  position: relative;
+}
+
+.testimonial-slide {
+  display: none;
+}
+
+.testimonial-slide.active {
+  display: block;
+}
+
+.dots .dot {
+  cursor: pointer;
+}
+
+button.prev, button.next {
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button.prev:hover, button.next:hover {
+  background-color: #bbb;
+}

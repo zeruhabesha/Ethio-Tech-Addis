@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ethio-Tech-Addis/static/css/main.9b4d7f31.css",
+    "main.js": "/Ethio-Tech-Addis/static/js/main.995e6439.js",
+    "static/media/slide 02.png": "/Ethio-Tech-Addis/static/media/slide 02.9e83afcaccdc4b8b87ef.png",
+    "static/media/slide 05.jpg": "/Ethio-Tech-Addis/static/media/slide 05.8c426a5b2944ea962e0e.jpg",
+    "static/media/Slide 01.jpg": "/Ethio-Tech-Addis/static/media/Slide 01.b87f8701607a6694af2d.jpg",
+    "static/media/slide 03.jpg": "/Ethio-Tech-Addis/static/media/slide 03.288df1273e10fec80316.jpg",
+    "static/media/sketch1710090663589.png": "/Ethio-Tech-Addis/static/media/sketch1710090663589.b8b94ae72183865fb340.png",
+    "static/media/Slide automation 01.png": "/Ethio-Tech-Addis/static/media/Slide automation 01.82f71fc4403b49aa59c6.png",
+    "static/media/slide 06.jpg": "/Ethio-Tech-Addis/static/media/slide 06.4080dc24ca729c9e226a.jpg",
+    "static/media/slide 04.jpg": "/Ethio-Tech-Addis/static/media/slide 04.544fdb01d9c147458489.jpg",
+    "static/media/ppl.jpg": "/Ethio-Tech-Addis/static/media/ppl.46d1f759c531941ff5df.jpg",
+    "static/media/ethiotech2.png": "/Ethio-Tech-Addis/static/media/ethiotech2.37d618eebfb2d09f6269.png",
+    "static/media/ethiotech.jpeg": "/Ethio-Tech-Addis/static/media/ethiotech.704cf080db4e9d587c06.jpeg",
+    "index.html": "/Ethio-Tech-Addis/index.html",
+    "main.9b4d7f31.css.map": "/Ethio-Tech-Addis/static/css/main.9b4d7f31.css.map",
+    "main.995e6439.js.map": "/Ethio-Tech-Addis/static/js/main.995e6439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b4d7f31.css",
+    "static/js/main.995e6439.js"
+  ]
+}
